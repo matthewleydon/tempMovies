@@ -65,3 +65,7 @@ i:hover {
 .likeHeart {
   color: red;
 }
+
+.commented {
+  color: red;
+}
